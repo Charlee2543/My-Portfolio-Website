@@ -1,0 +1,9 @@
+{"homepage":" https://charlee2543.github.io/My-Portfolio-Website/",
+"dependencies":{"gh-pages":"^6.1.1"},
+
+"scripts": {
+       "predeploy": "npm run build",
+       "deploy": "gh-pages -d build",
+        "start": "react-scripts start",
+        "build": "react-scripts build"}
+}
