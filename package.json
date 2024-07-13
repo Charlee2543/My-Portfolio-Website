@@ -1,5 +1,5 @@
 {
-	"homepage": " https://charlee2543.github.io/My-Pgitortfolio-Website/",
+	"homepage": "https://charlee2543.github.io/My-Portfolio-Website/",
 	"dependencies": {
 		"gh-pages": "^6.1.1",
 		"yarn": "^1.22.22"
